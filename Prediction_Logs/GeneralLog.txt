@@ -1,0 +1,33 @@
+2021-03-07/12:20:38		BadRaw directory deleted before starting validation!!!
+2021-03-07/12:20:38		GoodRaw directory deleted successfully!!!
+2021-03-07/12:20:38		Final Prediction file directory deleted before starting validation
+2021-03-07/12:38:08		BadRaw directory deleted before starting validation!!!
+2021-03-07/12:38:08		GoodRaw directory deleted successfully!!!
+2021-03-07/12:38:08		Final Prediction file directory deleted before starting validation
+2021-03-07/12:42:46		BadRaw directory deleted before starting validation!!!
+2021-03-07/12:42:46		GoodRaw directory deleted successfully!!!
+2021-03-07/12:42:46		Final Prediction file directory deleted before starting validation
+2021-03-07/12:44:24		BadRaw directory deleted before starting validation!!!
+2021-03-07/12:44:24		GoodRaw directory deleted successfully!!!
+2021-03-07/12:44:24		Final Prediction file directory deleted before starting validation
+2021-03-07/12:44:36		BadRaw directory deleted before starting validation!!!
+2021-03-07/12:44:36		GoodRaw directory deleted successfully!!!
+2021-03-07/12:44:36		Final Prediction file directory deleted before starting validation
+2021-03-07/12:47:06		BadRaw directory deleted before starting validation!!!
+2021-03-07/12:47:06		GoodRaw directory deleted successfully!!!
+2021-03-07/12:47:06		Final Prediction file directory deleted before starting validation
+2021-03-07/14:26:01		BadRaw directory deleted before starting validation!!!
+2021-03-07/14:26:01		GoodRaw directory deleted successfully!!!
+2021-03-07/14:26:01		Final Prediction file directory deleted before starting validation
+2021-03-07/14:29:29		BadRaw directory deleted before starting validation!!!
+2021-03-07/14:29:29		GoodRaw directory deleted successfully!!!
+2021-03-07/14:29:29		Final Prediction file directory deleted before starting validation
+2021-03-07/14:30:58		BadRaw directory deleted before starting validation!!!
+2021-03-07/14:30:58		GoodRaw directory deleted successfully!!!
+2021-03-07/14:30:58		Final Prediction file directory deleted before starting validation
+2021-03-07/18:19:14		BadRaw directory deleted before starting validation!!!
+2021-03-07/18:19:14		GoodRaw directory deleted successfully!!!
+2021-03-07/18:19:14		Final Prediction file directory deleted before starting validation
+2021-03-07/21:09:46		BadRaw directory deleted before starting validation!!!
+2021-03-07/21:09:46		GoodRaw directory deleted successfully!!!
+2021-03-07/21:09:46		Final Prediction file directory deleted before starting validation

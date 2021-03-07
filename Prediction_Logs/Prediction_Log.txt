@@ -1,0 +1,319 @@
+2021-03-07/12:20:38		Start of Validation on files for prediction!!
+2021-03-07/12:20:42		Raw Data Validation Complete!!
+2021-03-07/12:20:42		Starting Data Transforamtion!!
+2021-03-07/12:20:44		DataTransformation Completed!!!
+2021-03-07/12:20:44		Final validated dataset creation started!!
+2021-03-07/12:20:45		Final validated dataset creation Successful!!
+2021-03-07/12:20:45		Start of Prediction
+2021-03-07/12:20:45		Entered the get_data method of the Data_Getter class
+2021-03-07/12:20:45		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-07/12:20:45		Entered the is_null_present method
+2021-03-07/12:20:45		Finding missing values is Successful!!
+2021-03-07/12:20:45		Entered the impute_missing_values method
+2021-03-07/12:20:46		Imputing missing values Successful!!
+2021-03-07/12:20:46		Entered the get_columns_with_zero_std_deviation method
+2021-03-07/12:20:46		Column search for Standard Deviation of Zero Successful!!
+2021-03-07/12:20:46		Entered the remove_column method of the Preprocessor class
+2021-03-07/12:20:46		Column removal Successful!!
+2021-03-07/12:20:46		Entered the load_model method
+2021-03-07/12:20:46		Model File KMeans loaded.
+2021-03-07/12:20:46		Entered the find_correct_model_file method
+2021-03-07/12:20:46		Entered the load_model method
+2021-03-07/12:20:46		Model File RandomForest0 loaded.
+2021-03-07/12:20:46		Entered the find_correct_model_file method
+2021-03-07/12:20:46		Entered the load_model method
+2021-03-07/12:20:46		Model File RandomForest1 loaded.
+2021-03-07/12:20:46		Entered the find_correct_model_file method
+2021-03-07/12:20:46		Entered the load_model method
+2021-03-07/12:20:46		Model File RandomForest2 loaded.
+2021-03-07/12:20:47		End of Prediction
+2021-03-07/12:38:08		Start of Validation on files for prediction!!
+2021-03-07/12:38:11		Raw Data Validation Complete!!
+2021-03-07/12:38:11		Starting Data Transforamtion!!
+2021-03-07/12:38:14		DataTransformation Completed!!!
+2021-03-07/12:38:14		Final validated dataset creation started!!
+2021-03-07/12:38:15		Final validated dataset creation Successful!!
+2021-03-07/12:38:15		Start of Prediction
+2021-03-07/12:38:15		Entered the get_data method of the Data_Getter class
+2021-03-07/12:38:15		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-07/12:38:15		Entered the is_null_present method
+2021-03-07/12:38:15		Finding missing values is Successful!!
+2021-03-07/12:38:15		Entered the impute_missing_values method
+2021-03-07/12:38:15		Imputing missing values Successful!!
+2021-03-07/12:38:15		Entered the get_columns_with_zero_std_deviation method
+2021-03-07/12:38:16		Column search for Standard Deviation of Zero Successful!!
+2021-03-07/12:38:16		Entered the remove_column method of the Preprocessor class
+2021-03-07/12:38:16		Column removal Successful!!
+2021-03-07/12:38:16		Entered the load_model method
+2021-03-07/12:38:16		Model File KMeans loaded.
+2021-03-07/12:38:16		Entered the find_correct_model_file method
+2021-03-07/12:38:16		Entered the load_model method
+2021-03-07/12:38:16		Model File RandomForest0 loaded.
+2021-03-07/12:38:16		Entered the find_correct_model_file method
+2021-03-07/12:38:16		Entered the load_model method
+2021-03-07/12:38:16		Model File RandomForest1 loaded.
+2021-03-07/12:38:16		Entered the find_correct_model_file method
+2021-03-07/12:38:16		Entered the load_model method
+2021-03-07/12:38:16		Model File RandomForest2 loaded.
+2021-03-07/12:38:16		End of Prediction
+2021-03-07/12:42:46		Start of Validation on files for prediction!!
+2021-03-07/12:42:49		Raw Data Validation Complete!!
+2021-03-07/12:42:49		Starting Data Transforamtion!!
+2021-03-07/12:42:52		DataTransformation Completed!!!
+2021-03-07/12:42:52		Final validated dataset creation started!!
+2021-03-07/12:42:53		Final validated dataset creation Successful!!
+2021-03-07/12:42:53		Start of Prediction
+2021-03-07/12:42:53		Entered the get_data method of the Data_Getter class
+2021-03-07/12:42:53		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-07/12:42:53		Entered the is_null_present method
+2021-03-07/12:42:53		Finding missing values is Successful!!
+2021-03-07/12:42:53		Entered the impute_missing_values method
+2021-03-07/12:42:53		Imputing missing values Successful!!
+2021-03-07/12:42:53		Entered the get_columns_with_zero_std_deviation method
+2021-03-07/12:42:54		Column search for Standard Deviation of Zero Successful!!
+2021-03-07/12:42:54		Entered the remove_column method of the Preprocessor class
+2021-03-07/12:42:54		Column removal Successful!!
+2021-03-07/12:42:54		Entered the load_model method
+2021-03-07/12:42:54		Model File KMeans loaded.
+2021-03-07/12:42:54		Entered the find_correct_model_file method
+2021-03-07/12:42:54		Entered the load_model method
+2021-03-07/12:42:54		Model File RandomForest0 loaded.
+2021-03-07/12:42:54		Entered the find_correct_model_file method
+2021-03-07/12:42:54		Entered the load_model method
+2021-03-07/12:42:54		Model File RandomForest1 loaded.
+2021-03-07/12:42:54		Entered the find_correct_model_file method
+2021-03-07/12:42:54		Entered the load_model method
+2021-03-07/12:42:54		Model File RandomForest2 loaded.
+2021-03-07/12:42:54		End of Prediction
+2021-03-07/12:44:24		Start of Validation on files for prediction!!
+2021-03-07/12:44:28		Raw Data Validation Complete!!
+2021-03-07/12:44:28		Starting Data Transforamtion!!
+2021-03-07/12:44:30		DataTransformation Completed!!!
+2021-03-07/12:44:30		Final validated dataset creation started!!
+2021-03-07/12:44:31		Final validated dataset creation Successful!!
+2021-03-07/12:44:31		Start of Prediction
+2021-03-07/12:44:31		Entered the get_data method of the Data_Getter class
+2021-03-07/12:44:31		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-07/12:44:31		Entered the is_null_present method
+2021-03-07/12:44:31		Finding missing values is Successful!!
+2021-03-07/12:44:31		Entered the impute_missing_values method
+2021-03-07/12:44:32		Imputing missing values Successful!!
+2021-03-07/12:44:32		Entered the get_columns_with_zero_std_deviation method
+2021-03-07/12:44:32		Column search for Standard Deviation of Zero Successful!!
+2021-03-07/12:44:32		Entered the remove_column method of the Preprocessor class
+2021-03-07/12:44:32		Column removal Successful!!
+2021-03-07/12:44:32		Entered the load_model method
+2021-03-07/12:44:32		Model File KMeans loaded.
+2021-03-07/12:44:32		Entered the find_correct_model_file method
+2021-03-07/12:44:32		Entered the load_model method
+2021-03-07/12:44:32		Model File RandomForest0 loaded.
+2021-03-07/12:44:32		Entered the find_correct_model_file method
+2021-03-07/12:44:32		Entered the load_model method
+2021-03-07/12:44:32		Model File RandomForest1 loaded.
+2021-03-07/12:44:32		Entered the find_correct_model_file method
+2021-03-07/12:44:32		Entered the load_model method
+2021-03-07/12:44:32		Model File RandomForest2 loaded.
+2021-03-07/12:44:32		End of Prediction
+2021-03-07/12:44:36		Start of Validation on files for prediction!!
+2021-03-07/12:44:39		Raw Data Validation Complete!!
+2021-03-07/12:44:39		Starting Data Transforamtion!!
+2021-03-07/12:44:41		DataTransformation Completed!!!
+2021-03-07/12:44:41		Final validated dataset creation started!!
+2021-03-07/12:44:43		Final validated dataset creation Successful!!
+2021-03-07/12:44:43		Start of Prediction
+2021-03-07/12:44:43		Entered the get_data method of the Data_Getter class
+2021-03-07/12:44:43		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-07/12:44:43		Entered the is_null_present method
+2021-03-07/12:44:43		Finding missing values is Successful!!
+2021-03-07/12:44:43		Entered the impute_missing_values method
+2021-03-07/12:44:43		Imputing missing values Successful!!
+2021-03-07/12:44:43		Entered the get_columns_with_zero_std_deviation method
+2021-03-07/12:44:44		Column search for Standard Deviation of Zero Successful!!
+2021-03-07/12:44:44		Entered the remove_column method of the Preprocessor class
+2021-03-07/12:44:44		Column removal Successful!!
+2021-03-07/12:44:44		Entered the load_model method
+2021-03-07/12:44:44		Model File KMeans loaded.
+2021-03-07/12:44:44		Entered the find_correct_model_file method
+2021-03-07/12:44:44		Entered the load_model method
+2021-03-07/12:44:44		Model File RandomForest0 loaded.
+2021-03-07/12:44:44		Entered the find_correct_model_file method
+2021-03-07/12:44:44		Entered the load_model method
+2021-03-07/12:44:44		Model File RandomForest1 loaded.
+2021-03-07/12:44:44		Entered the find_correct_model_file method
+2021-03-07/12:44:44		Entered the load_model method
+2021-03-07/12:44:44		Model File RandomForest2 loaded.
+2021-03-07/12:44:44		End of Prediction
+2021-03-07/12:47:06		Start of Validation on files for prediction!!
+2021-03-07/12:47:09		Raw Data Validation Complete!!
+2021-03-07/12:47:09		Starting Data Transforamtion!!
+2021-03-07/12:47:11		DataTransformation Completed!!!
+2021-03-07/12:47:11		Final validated dataset creation started!!
+2021-03-07/12:47:13		Final validated dataset creation Successful!!
+2021-03-07/12:47:13		Start of Prediction
+2021-03-07/12:47:13		Entered the get_data method of the Data_Getter class
+2021-03-07/12:47:13		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-07/12:47:13		Entered the is_null_present method
+2021-03-07/12:47:13		Finding missing values is Successful!!
+2021-03-07/12:47:13		Entered the impute_missing_values method
+2021-03-07/12:47:13		Imputing missing values Successful!!
+2021-03-07/12:47:13		Entered the get_columns_with_zero_std_deviation method
+2021-03-07/12:47:14		Column search for Standard Deviation of Zero Successful!!
+2021-03-07/12:47:14		Entered the remove_column method of the Preprocessor class
+2021-03-07/12:47:14		Column removal Successful!!
+2021-03-07/12:47:14		Entered the load_model method
+2021-03-07/12:47:14		Model File KMeans loaded.
+2021-03-07/12:47:14		Entered the find_correct_model_file method
+2021-03-07/12:47:14		Entered the load_model method
+2021-03-07/12:47:14		Model File RandomForest0 loaded.
+2021-03-07/12:47:14		Entered the find_correct_model_file method
+2021-03-07/12:47:14		Entered the load_model method
+2021-03-07/12:47:14		Model File RandomForest1 loaded.
+2021-03-07/12:47:14		Entered the find_correct_model_file method
+2021-03-07/12:47:14		Entered the load_model method
+2021-03-07/12:47:14		Model File RandomForest2 loaded.
+2021-03-07/12:47:14		End of Prediction
+2021-03-07/14:26:01		Start of Validation on files for prediction!!
+2021-03-07/14:26:04		Raw Data Validation Complete!!
+2021-03-07/14:26:04		Starting Data Transforamtion!!
+2021-03-07/14:26:06		DataTransformation Completed!!!
+2021-03-07/14:26:06		Final validated dataset creation started!!
+2021-03-07/14:26:07		Final validated dataset creation Successful!!
+2021-03-07/14:26:07		Start of Prediction
+2021-03-07/14:26:07		Entered the get_data method of the Data_Getter class
+2021-03-07/14:26:07		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-07/14:26:07		Entered the is_null_present method
+2021-03-07/14:26:07		Finding missing values is Successful!!
+2021-03-07/14:26:07		Entered the impute_missing_values method
+2021-03-07/14:26:08		Imputing missing values Successful!!
+2021-03-07/14:26:08		Entered the get_columns_with_zero_std_deviation method
+2021-03-07/14:26:09		Column search for Standard Deviation of Zero Successful!!
+2021-03-07/14:26:09		Entered the remove_column method of the Preprocessor class
+2021-03-07/14:26:09		Column removal Successful!!
+2021-03-07/14:26:09		Entered the load_model method
+2021-03-07/14:26:09		Model File KMeans loaded.
+2021-03-07/14:26:09		Entered the find_correct_model_file method
+2021-03-07/14:26:09		Entered the load_model method
+2021-03-07/14:26:09		Model File RandomForest0 loaded.
+2021-03-07/14:26:09		Entered the find_correct_model_file method
+2021-03-07/14:26:09		Entered the load_model method
+2021-03-07/14:26:09		Model File RandomForest1 loaded.
+2021-03-07/14:26:09		Entered the find_correct_model_file method
+2021-03-07/14:26:09		Entered the load_model method
+2021-03-07/14:26:09		Model File RandomForest2 loaded.
+2021-03-07/14:26:09		End of Prediction
+2021-03-07/14:29:29		Start of Validation on files for prediction!!
+2021-03-07/14:29:32		Raw Data Validation Complete!!
+2021-03-07/14:29:32		Starting Data Transforamtion!!
+2021-03-07/14:29:35		DataTransformation Completed!!!
+2021-03-07/14:29:35		Final validated dataset creation started!!
+2021-03-07/14:29:36		Final validated dataset creation Successful!!
+2021-03-07/14:29:36		Start of Prediction
+2021-03-07/14:29:36		Entered the get_data method of the Data_Getter class
+2021-03-07/14:29:36		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-07/14:29:36		Entered the is_null_present method
+2021-03-07/14:29:36		Finding missing values is Successful!!
+2021-03-07/14:29:36		Entered the impute_missing_values method
+2021-03-07/14:29:36		Imputing missing values Successful!!
+2021-03-07/14:29:36		Entered the get_columns_with_zero_std_deviation method
+2021-03-07/14:29:37		Column search for Standard Deviation of Zero Successful!!
+2021-03-07/14:29:37		Entered the remove_column method of the Preprocessor class
+2021-03-07/14:29:37		Column removal Successful!!
+2021-03-07/14:29:37		Entered the load_model method
+2021-03-07/14:29:37		Model File KMeans loaded.
+2021-03-07/14:29:37		Entered the find_correct_model_file method
+2021-03-07/14:29:37		Entered the load_model method
+2021-03-07/14:29:37		Model File RandomForest0 loaded.
+2021-03-07/14:29:37		Entered the find_correct_model_file method
+2021-03-07/14:29:37		Entered the load_model method
+2021-03-07/14:29:37		Model File RandomForest1 loaded.
+2021-03-07/14:29:37		Entered the find_correct_model_file method
+2021-03-07/14:29:37		Entered the load_model method
+2021-03-07/14:29:37		Model File RandomForest2 loaded.
+2021-03-07/14:29:37		End of Prediction
+2021-03-07/14:30:58		Start of Validation on files for prediction!!
+2021-03-07/14:31:01		Raw Data Validation Complete!!
+2021-03-07/14:31:01		Starting Data Transforamtion!!
+2021-03-07/14:31:04		DataTransformation Completed!!!
+2021-03-07/14:31:04		Final validated dataset creation started!!
+2021-03-07/14:31:05		Final validated dataset creation Successful!!
+2021-03-07/14:31:05		Start of Prediction
+2021-03-07/14:31:05		Entered the get_data method of the Data_Getter class
+2021-03-07/14:31:05		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-07/14:31:05		Entered the is_null_present method
+2021-03-07/14:31:05		Finding missing values is Successful!!
+2021-03-07/14:31:05		Entered the impute_missing_values method
+2021-03-07/14:31:05		Imputing missing values Successful!!
+2021-03-07/14:31:05		Entered the get_columns_with_zero_std_deviation method
+2021-03-07/14:31:06		Column search for Standard Deviation of Zero Successful!!
+2021-03-07/14:31:06		Entered the remove_column method of the Preprocessor class
+2021-03-07/14:31:06		Column removal Successful!!
+2021-03-07/14:31:06		Entered the load_model method
+2021-03-07/14:31:06		Model File KMeans loaded.
+2021-03-07/14:31:06		Entered the find_correct_model_file method
+2021-03-07/14:31:06		Entered the load_model method
+2021-03-07/14:31:06		Model File RandomForest0 loaded.
+2021-03-07/14:31:06		Entered the find_correct_model_file method
+2021-03-07/14:31:06		Entered the load_model method
+2021-03-07/14:31:06		Model File RandomForest1 loaded.
+2021-03-07/14:31:06		Entered the find_correct_model_file method
+2021-03-07/14:31:06		Entered the load_model method
+2021-03-07/14:31:06		Model File RandomForest2 loaded.
+2021-03-07/14:31:06		End of Prediction
+2021-03-07/18:19:14		Start of Validation on files for prediction!!
+2021-03-07/18:19:18		Raw Data Validation Complete!!
+2021-03-07/18:19:18		Starting Data Transforamtion!!
+2021-03-07/18:19:20		DataTransformation Completed!!!
+2021-03-07/18:19:20		Final validated dataset creation started!!
+2021-03-07/18:19:21		Final validated dataset creation Successful!!
+2021-03-07/18:19:21		Start of Prediction
+2021-03-07/18:19:21		Entered the get_data method of the Data_Getter class
+2021-03-07/18:19:21		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-07/18:19:21		Entered the is_null_present method
+2021-03-07/18:19:21		Finding missing values is Successful!!
+2021-03-07/18:19:21		Entered the impute_missing_values method
+2021-03-07/18:19:21		Imputing missing values Successful!!
+2021-03-07/18:19:21		Entered the get_columns_with_zero_std_deviation method
+2021-03-07/18:19:22		Column search for Standard Deviation of Zero Successful!!
+2021-03-07/18:19:22		Entered the remove_column method of the Preprocessor class
+2021-03-07/18:19:22		Column removal Successful!!
+2021-03-07/18:19:22		Entered the load_model method
+2021-03-07/18:19:22		Model File KMeans loaded.
+2021-03-07/18:19:22		Entered the find_correct_model_file method
+2021-03-07/18:19:22		Entered the load_model method
+2021-03-07/18:19:22		Model File RandomForest0 loaded.
+2021-03-07/18:19:22		Entered the find_correct_model_file method
+2021-03-07/18:19:22		Entered the load_model method
+2021-03-07/18:19:22		Model File RandomForest1 loaded.
+2021-03-07/18:19:22		Entered the find_correct_model_file method
+2021-03-07/18:19:22		Entered the load_model method
+2021-03-07/18:19:22		Model File RandomForest2 loaded.
+2021-03-07/18:19:22		End of Prediction
+2021-03-07/21:09:46		Start of Validation on files for prediction!!
+2021-03-07/21:09:49		Raw Data Validation Complete!!
+2021-03-07/21:09:49		Starting Data Transforamtion!!
+2021-03-07/21:09:52		DataTransformation Completed!!!
+2021-03-07/21:09:52		Final validated dataset creation started!!
+2021-03-07/21:09:53		Final validated dataset creation Successful!!
+2021-03-07/21:09:53		Start of Prediction
+2021-03-07/21:09:53		Entered the get_data method of the Data_Getter class
+2021-03-07/21:09:53		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-03-07/21:09:53		Entered the is_null_present method
+2021-03-07/21:09:53		Finding missing values is Successful!!
+2021-03-07/21:09:53		Entered the impute_missing_values method
+2021-03-07/21:09:53		Imputing missing values Successful!!
+2021-03-07/21:09:53		Entered the get_columns_with_zero_std_deviation method
+2021-03-07/21:09:54		Column search for Standard Deviation of Zero Successful!!
+2021-03-07/21:09:54		Entered the remove_column method of the Preprocessor class
+2021-03-07/21:09:54		Column removal Successful!!
+2021-03-07/21:09:54		Entered the load_model method
+2021-03-07/21:09:54		Model File KMeans loaded.
+2021-03-07/21:09:54		Entered the find_correct_model_file method
+2021-03-07/21:09:54		Entered the load_model method
+2021-03-07/21:09:54		Model File RandomForest0 loaded.
+2021-03-07/21:09:54		Entered the find_correct_model_file method
+2021-03-07/21:09:54		Entered the load_model method
+2021-03-07/21:09:54		Model File RandomForest1 loaded.
+2021-03-07/21:09:54		Entered the find_correct_model_file method
+2021-03-07/21:09:54		Entered the load_model method
+2021-03-07/21:09:54		Model File RandomForest2 loaded.
+2021-03-07/21:09:54		End of Prediction
