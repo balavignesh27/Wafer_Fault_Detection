@@ -1,0 +1,48 @@
+2021-03-07/12:08:48		Entered the get_data method of the Data_Getter class
+2021-03-07/12:08:48		Data Load Successful. Exited the get_data method of the                                                     Data_Getter class
+2021-03-07/12:08:48		Entered the remove_column method of the Preprocessor class
+2021-03-07/12:08:48		Column removal Successful!!
+2021-03-07/12:08:48		Entered the separate_label_feature method of the Preprocessor class
+2021-03-07/12:08:48		Label Separation Successful!!
+2021-03-07/12:08:48		Entered the is_null_present method
+2021-03-07/12:08:48		Finding missing values is Successful!!
+2021-03-07/12:08:48		Entered the impute_missing_values method
+2021-03-07/12:08:48		Imputing missing values Successful!!
+2021-03-07/12:08:48		Entered the get_columns_with_zero_std_deviation method
+2021-03-07/12:08:49		Column search for Standard Deviation of Zero Successful!!
+2021-03-07/12:08:49		Entered the remove_column method of the Preprocessor class
+2021-03-07/12:08:49		Column removal Successful!!
+2021-03-07/12:08:49		Entered the elbow_plot method of the KMeansClustering class
+2021-03-07/12:08:51		The optimum number of clusters is: 3
+2021-03-07/12:08:51		Entered the create_clusters method of the KMeansClustering class
+2021-03-07/12:08:52		Entered the save_model method.
+2021-03-07/12:08:52		Model File KMeans saved.
+2021-03-07/12:08:52		Successfully created 3 clusters.
+2021-03-07/12:08:52		Entered the get_best_model method
+2021-03-07/12:08:52		Entered the get_best_params_for_XGBoost method
+2021-03-07/12:14:47		XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 10}
+2021-03-07/12:14:47		AUC for XGBoost: 0.5
+2021-03-07/12:14:47		Entered the get_best_params_for_Random_Forest method
+2021-03-07/12:15:30		Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}
+2021-03-07/12:15:30		Accuracy for RF: 0.9454545454545454
+2021-03-07/12:15:30		Entered the save_model method.
+2021-03-07/12:15:30		Model File RandomForest0 saved.
+2021-03-07/12:15:30		Entered the get_best_model method
+2021-03-07/12:15:30		Entered the get_best_params_for_XGBoost method
+2021-03-07/12:16:25		XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 10}
+2021-03-07/12:16:25		AUC for XGBoost: 0.5
+2021-03-07/12:16:25		Entered the get_best_params_for_Random_Forest method
+2021-03-07/12:16:50		Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}
+2021-03-07/12:16:50		Accuracy for RF: 0.9
+2021-03-07/12:16:50		Entered the save_model method.
+2021-03-07/12:16:50		Model File RandomForest1 saved.
+2021-03-07/12:16:50		Entered the get_best_model method
+2021-03-07/12:16:50		Entered the get_best_params_for_XGBoost method
+2021-03-07/12:18:36		XGBoost best params: {'learning_rate': 0.5, 'max_depth': 3, 'n_estimators': 10}
+2021-03-07/12:18:36		AUC for XGBoost: 0.5
+2021-03-07/12:18:36		Entered the get_best_params_for_Random_Forest method
+2021-03-07/12:19:04		Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}
+2021-03-07/12:19:04		Accuracy for RF: 0.9523809523809523
+2021-03-07/12:19:04		Entered the save_model method.
+2021-03-07/12:19:04		Model File RandomForest2 saved.
+2021-03-07/12:19:04		Successful End of Training
