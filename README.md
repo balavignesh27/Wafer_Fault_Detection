@@ -9,7 +9,7 @@ To run the project
 6. Run the main.py file.
 7. Open the localhost in the web browser.
 8. You can see the Web API to predict the wafer quality.
-9. Place the Folder path of which csv files need to be predicted.
+9. Place the Folder path of which csv files need to be predicted in the text box.
 10. Click the Custom File Predict
 11. In case you want to train the model again.
 12. Install Postman.
