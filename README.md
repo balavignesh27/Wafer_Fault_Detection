@@ -1,6 +1,8 @@
 # Wafer_Fault_Detection
 
-To run the project
+To know about the project, read the Problem Statement.docx
+
+To run the project, follow the below steps.
 1. Download all the files.
 2. Install PyCharm.
 3. Open the "main.py" file.
