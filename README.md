@@ -1,6 +1,6 @@
 # Wafer_Fault_Detection
 
-To know about the project, read the Problem Statement.docx
+To know about the project, read the Problem Statement.docx and the Program architecture.ppt
 
 To run the project, follow the below steps.
 1. Download all the files.
