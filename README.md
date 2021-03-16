@@ -15,7 +15,7 @@ To run the project, follow the below steps.
 10. Click the Custom File Predict
 11. In case you want to train the model again.
 12. Install Postman.
-13. Pass the URL:localhost:5000/train and along with that send the files folder path which you want to train as json format.
+13. Pass the URL:localhost:5000/train and along with that send the file's folder path which you want to train as json format.
 14. After getting output "Training Successful", do the prediction as mentioned above.
 
 Thank you.
