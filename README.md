@@ -1,8 +1,10 @@
 # Wafer_Fault_Detection
 
 To know about the project:
+
 Watch YouTube Videos - Wafer Sensor Training Part_1: https://www.youtube.com/watch?v=twy0K1DHrUA
 Watch YouTube Videos - Wafer Sensor Prediction Part_2: https://www.youtube.com/watch?v=Xu9gWQxJAE4
+
 Read the Problem Statement.docx and the Program architecture.ppt
 
 To run the project, follow the below steps.
